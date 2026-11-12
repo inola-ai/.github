@@ -1,9 +1,7 @@
 # Inola
 
-Specialized AI models for business.
-
-We build models for the work companies run at scale, every day, on every
-document. You call them through one API and pay per token.
+Inola builds and serves specialized AI models for high-volume business tasks.
+One API, pay per token.
 
 ## Models
 
