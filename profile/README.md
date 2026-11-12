@@ -14,6 +14,6 @@ Docs, pricing and a free plan: [inola.ai](https://inola.ai)
 
 ## Get started
 
-1. Create an account at [inola.ai](https://inola.ai). New accounts get free credit.
+1. Create an account at [inola.ai](https://inola.ai).
 2. Get an API key.
 3. Send your first request (see the docs).
